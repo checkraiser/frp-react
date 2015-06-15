@@ -1,0 +1,30 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baconjs": "^0.7.65",
+    "connect-browserify": "^4.0.0",
+    "express": "^4.12.4",
+    "immutable": "^3.7.3",
+    "jsx-loader": "^0.13.2",
+    "material-ui": "^0.9.1",
+    "node-jsx": "^0.13.3",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "react-async": "^2.1.0",
+    "react-router-component": "^0.25.1",
+    "react-tap-event-plugin": "^0.1.7",
+    "routie": "0.0.1",
+    "webpack": "^1.9.11"
+  },
+  "devDependencies": {
+    "reactify": "^1.1.1"
+  }
+}

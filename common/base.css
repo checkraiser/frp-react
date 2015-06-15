@@ -1,0 +1,11 @@
+headline {
+  bottom: 0px;
+  display: block;
+  background-color: #FF4081;
+  height: 2px;
+  margin-top: -2px;
+  position: relative;
+  transition: left 1s cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+  left: calc(33.3333% * 0);
+  width: 33.3333%;
+}
